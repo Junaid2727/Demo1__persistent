@@ -16,12 +16,12 @@ change for WI4 by teammate for 3-way merge with conflict
 
 
 
-change for bug2, 3-way merging with conflict.
+Change for bug2, 3-way merging with conflict.
 
 
 Change for WI5 by teammate to check rebase with conflict.
 
-change for CR1 rebase with conflict.
+change for CR1 rebase with conflict. Chnage for conflict remote master updated to cr2
 
 Change for WI6 for stash - inprogress or halfdone work.
 
