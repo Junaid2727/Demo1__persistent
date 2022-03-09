@@ -25,3 +25,4 @@ change for CR1 rebase with conflict.
 
 Change for WI6 for stash - inprogress or halfdone work.
 
+Change for WI7 for remote mster by team mate to pull.
