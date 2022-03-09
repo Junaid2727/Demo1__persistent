@@ -21,7 +21,10 @@ Change for bug2, 3-way merging with conflict.
 
 Change for WI5 by teammate to check rebase with conflict.
 
-change for CR1 rebase with conflict. Chnage for conflict remote master updated to cr2
+
+change for CR1 rebase with conflict. Chnage for conflict remote master updated to cr2 and Change on local master for bug4.
+
+
 
 Change for WI6 for stash - inprogress or halfdone work.
 
