@@ -1,10 +1,20 @@
-Hello world
-
-How are u::
-
-change the file to multiple stages area
+Hello world.
 
 
-change for bug1 
+How are u::.
+
+
+
+
+change the file to multiple stages area.
+
+
+
+change for bug1. 
 
 change for WI4 by teammate , 3-way merge with conflict
+
+change for bug1.
+
+change for bug2, 3-way merging with conflict.
+
