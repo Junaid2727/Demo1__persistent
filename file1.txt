@@ -1,8 +1,10 @@
-Hello world
+Hello world.
 
-how are u::
+how are u::.
 
-change the file to multiple stages area
+change the file to multiple stages area.
 
 
-change for bug1 
+change for bug1.
+
+chnage for bug2, 3-way merging with conflict.
